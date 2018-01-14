@@ -1,2 +1,2 @@
 # Unique-id
-[alt text](https://github.com/ockang/unique-id/blob/master/code.gif)
+![Image](https://github.com/ockang/unique-id/blob/master/code.gif)
