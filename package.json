@@ -1,0 +1,11 @@
+{
+  "name": "module-id-unique",
+  "version": "1.0.0",
+  "description": "Module In Nodejs - generator id unique",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "author": "edinsoncs",
+  "license": "MIT"
+}
